@@ -7,3 +7,6 @@ from sklearn.neighbors import NearestNeighbors
 from sklearn.decomposition import TruncatedSVD
 
 print(1)
+print(1)
+print(1)
+print(1)
